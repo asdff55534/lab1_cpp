@@ -30,6 +30,7 @@ double fraction(double x);
 В программе задача реализована функцией Fraction.
 
 **Тестирование**
+
 ![image1](media/image1.png)
 
 ### **Задача 3\. CharToNum**
@@ -56,6 +57,7 @@ int charToNum(char x);
 В программе задача реализована функциями ReadDigit и CharToNum.
 
 **Тестирование**
+
 ![image2](media/image2.png)
 
 ### **Задача 5\. Is2Digits**
