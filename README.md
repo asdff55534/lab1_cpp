@@ -31,7 +31,7 @@ double fraction(double x);
 
 **Тестирование**
 
-![][image1]
+![image1](image1.png)
 
 ### **Задача 3\. CharToNum**
 
@@ -58,7 +58,7 @@ int charToNum(char x);
 
 **Тестирование**
 
-![][image2]
+![image2](image2.png)
 
 ### **Задача 5\. Is2Digits**
 
@@ -83,7 +83,7 @@ bool is2Digits(int x);
 
 **Тестирование**
 
-![][image3]
+![image3](image3.png)
 
 ### **Задача 7\. IsInRange**
 
@@ -112,7 +112,7 @@ a \= 2, b \= 15, num \= 33 → false.
 
 **Тестирование**
 
-![][image4]
+![image4](image4.png)
 
 ### **Задача 9\. IsEqual**
 
@@ -139,7 +139,7 @@ bool isEqual(int a, int b, int c);
 
 **Тестирование**
 
-![][image5]
+![image5](image5.png)
 
 # **Задание 2\. Условия**
 
@@ -166,7 +166,7 @@ int abs(int x);
 
 **Тестирование**
 
-![][image6]
+![image6](image6.png)
 
 ## **Задача 3\. Is35**
 
@@ -190,7 +190,7 @@ bool is35(int x);
 
 **Тестирование**
 
-![][image7]
+![image7](image7.png)
 
 ## **Задача 5\. Max3**
 
@@ -215,7 +215,7 @@ int max3(int x, int y, int z);
 
 **Тестирование**
 
-![][image8]
+![image8](image8.png)
 
 ## **Задача 7\. Sum2**
 
@@ -241,7 +241,7 @@ int sum2(int x, int y);
 
 **Тестирование**
 
-![][image9]
+![image9](image9.png)
 
 ## **Задача 9\. Day**
 
@@ -272,9 +272,9 @@ String day(int x);
 
 **Тестирование**
 
-![][image10]
+![image10](image10.png)
 
-![][image11]
+![image11](image11.png)
 
 # **Задание 3\. Циклы**
 
@@ -301,7 +301,7 @@ String listNums(int x);
 
 **Тестирование**
 
-![][image12]
+![image12](image12.png)
 
 ## **Задача 3\. Chet**
 
@@ -328,7 +328,7 @@ String chet(int x);
 
 **Тестирование**
 
-![][image13]
+![image13](image13.png)
 
 ## **Задача 5\. NumLen**
 
@@ -353,7 +353,7 @@ int numLen(long x);
 
 **Тестирование**
 
-![][image14]
+![image14](image14.png)
 
 ## **Задача 7\. Square**
 
@@ -377,7 +377,7 @@ void square(int x);
 
 **Тестирование**
 
-![][image15]
+![image15](image15.png)
 
 ## **Задача 9\. RightTriangle**
 
@@ -403,7 +403,7 @@ void rightTriangle(int x);
 
 **Тестирование**
 
-![][image16]
+![image16](image16.png)
 
 # **Задание 4\. Массивы**
 
@@ -442,7 +442,7 @@ int findFirst(int arr\[\], int x);
 
 **Тестирование**
 
-![][image17]
+![image17](image17.png)
 
 ## **Задача 3\. MaxAbs**
 
@@ -469,7 +469,7 @@ int maxAbs(int arr\[\]);
 
 **Тестирование**
 
-![][image18]
+![image18](image18.png)
 
 ## **Задача 5\. Add**
 
@@ -501,7 +501,7 @@ int \* add(int arr\[\], int ins\[\], int pos);
 
 **Тестирование**
 
-![][image19]
+![image19](image19.png)
 
 ## **Задача 7\. ReverseBack**
 
@@ -526,7 +526,7 @@ int \* reverseBack(int arr\[\]);
 
 **Тестирование**
 
-![][image20]
+![image20](image20.png)
 
 ## **Задача 9\. FindAll**
 
@@ -555,7 +555,7 @@ int \* findAll(int arr\[\], int x);
 
 **Тестирование**
 
-![][image21]
+![image21](image21.png)
 
 [image1]: <data:image/png;base64,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>
 
